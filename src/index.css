@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'europa';
+  src: url('./assets/fonts/fonts_europa.otf') format('opentype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'eloquia';
+  src: url('./assets/fonts/fonts_eloquia_extra_bold.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'eloquia';
+  src: url('./assets/fonts/fonts_eloquia_extra_light.otf') format('opentype');
+  font-weight: 200;
+  font-style: normal;
+}
